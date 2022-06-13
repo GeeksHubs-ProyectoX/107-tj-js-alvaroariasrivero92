@@ -5,7 +5,7 @@
     Considere el siguiente problema:
 
     Escriba un programa corto que permita obtener las letras de los elementos en posición par del array 
-	y devuelva una string con la unión de los mismos
+	y devuelva una string con la unión de los mism os
     
      N = 4 
     
